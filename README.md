@@ -1,4 +1,3 @@
-Anladım. Adı "Yol Telaşı" değil, "Race Game" olacak. README'yi buna göre güncelliyorum.
 
 # Race Game
 
